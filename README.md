@@ -2,11 +2,10 @@
 
 A pixel-perfect, highly aesthetic, experiential travel landing page built from scratch with **React.js**, **Vite**, and **Vanilla CSS**. This project showcases modern web design practices, containing custom-engineered animations, glassmorphic layouts, and responsive components designed to captivate visitors at first glance.
 
-Video (click here) 👇
 
-<a href="https://youtu.be/TkirMYVtWK8" target="_blank">
-  <img src="https://img.youtube.com/vi/TkirMYVtWK8/maxresdefault.jpg" alt="Watch the video" width="560" style="max-width: 100%;" />
-</a>
+https://github.com/user-attachments/assets/f96a72e8-8889-4bf0-9641-8311cfdac019
+
+
 ---
 
 ## 🌟 Key Features
