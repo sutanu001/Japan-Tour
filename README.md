@@ -1,7 +1,7 @@
 # 🌸 Japan Tours — Premium React.js & CSS Experiential Landing Page
 
 A pixel-perfect, highly aesthetic, experiential travel landing page built from scratch with **React.js**, **Vite**, and **Vanilla CSS**. This project showcases modern web design practices, containing custom-engineered animations, glassmorphic layouts, and responsive components designed to captivate visitors at first glance.
-
+https://youtu.be/TkirMYVtWK8
 ---
 
 ## 🌟 Key Features
